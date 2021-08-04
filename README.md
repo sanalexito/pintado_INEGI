@@ -12,4 +12,4 @@ En 2017 se modificaron los intervalos para asignar el pintado, quedando como sig
 
 ![colores_2017](https://user-images.githubusercontent.com/65984679/128233777-aec9d8ed-118c-42ce-b600-f45f004e19f6.jpg)
 
-Para pintar las estimaciones pongo un código R que usa las tablas publicadas por el INEGI de cvs y estimaciones, y regresa la tabla pintada. 
+Para pintar las estimaciones presento mi código R, que usa las tablas publicadas por el INEGI de cvs y estimaciones, y regresa la primera tabla pintada. Los datos corresponden a la Encuesta Nacional de Calidad e Impacto Gubernamental en Empresas de 2016.
