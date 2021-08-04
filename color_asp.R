@@ -1,5 +1,5 @@
 hoja <- "2.1"
-ruta <- "D:/Varios/pagithub/proy1/II_Marco_Regulatorio_2016_est_nvo_pint.xlsx"
+ruta <- "~/II_Marco_Regulatorio_2016_est_nvo_pint.xlsx"
 
 
 pinta <- function(est, cv, hoja, ruta){
