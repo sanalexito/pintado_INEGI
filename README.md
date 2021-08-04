@@ -1,6 +1,6 @@
 # pintado_INEGI
 
-El Instituto Nacional de Estadística y Geografía (INEGI) tiene un código de colores para señalar la calidad estadística de las estimaciones que publican de acuerdo a sus coeficientes de variación (cvs). En 2016 se tenía que el color blanco se usaba para cvs en menores al 15%; el color "cremita" aplicaba para cvs en el intervalo (15, 30] y un color "naranja" para las estimaciones con cvs mayores al 30%.
+El Instituto Nacional de Estadística y Geografía (INEGI) tiene un código de colores para señalar la calidad estadística de las estimaciones que publican de acuerdo a sus coeficientes de variación (cvs). En 2016 se tenía que el color blanco se usaba para cvs menores al 15%; el color "cremita" aplicaba para aquellas estimaciones cuyos cvs están en el intervalo (15, 30] y un color "naranja" para las estimaciones con cvs mayores al 30%.
 
 ![colores_2016](https://user-images.githubusercontent.com/65984679/128230632-21968932-a5d2-4096-a17f-3121409cb013.jpg)
 
