@@ -1,0 +1,1 @@
+# pintado_INEGI
