@@ -12,4 +12,4 @@ En 2017 se modificaron los intervalos para asignar el pintado, quedando como sig
 
 ![colores_2017](https://user-images.githubusercontent.com/65984679/128233777-aec9d8ed-118c-42ce-b600-f45f004e19f6.jpg)
 
-Para pintar las estimaciones presento el código R, que usa las tablas publicadas por el INEGI de cvs y estimaciones, y regresa el tabulado de estimaciones pintado. Los datos usados corresponden a la Encuesta Nacional de Calidad e Impacto Gubernamental en Empresas (ENCRIGE) 2016; y modificando los intervalos correspondientes puede obtenerse el viejo o el nuevo pintado. En este caso se presenta el pintado más reciente y se incluye el Excel para que pueda observarse el cambio.
+Para pintar las estimaciones presento el código R, que usa las tablas publicadas por el INEGI de cvs y estimaciones, y regresa el tabulado de estimaciones pintado. Los datos usados corresponden a la Encuesta Nacional de Calidad e Impacto Gubernamental en Empresas (ENCRIGE) 2016. Modificando los intervalos correspondientes puede obtenerse el viejo o el nuevo pintado. En este caso se presenta el pintado más reciente y se incluye el archivo Excel para que pueda observarse el cambio.
